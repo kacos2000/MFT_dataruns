@@ -1,5 +1,5 @@
 # MFT_dataruns
 
-   - [Dataruns calc *(Win 8.1/10 x64)*](https://github.com/kacos2000/MFT_dataruns/releases/download/v.1.0.22.0/DataRuns.exe)
+   - [Dataruns calc *(Win 8.1/10 x64)*](https://raw.githubusercontent.com/kacos2000/MFT_dataruns/master/Dataruns.JPG)
 
    * ![img](https://raw.githubusercontent.com/kacos2000/MFT_dataruns/master/Dataruns.JPG)
